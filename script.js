@@ -7,7 +7,7 @@ const text2 = "I'm Ahmed Hussien";
 const text3 = "Front-End Developer";
 let i = 1, j = 1, k = 1;
 
-let speed = 300 / speedE.value
+let speed = 600 / speedE.value
 
 writeText1();
 
